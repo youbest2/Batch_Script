@@ -1,0 +1,8 @@
+New-Item -Path "D:\Everything\BL_xx\Remote_Inspection_Test\UHD_CMP_BL11_1\178D\" -Name "BB82947" -ItemType "directory"
+New-Item -Path "D:\Everything\BL_xx\Remote_Inspection_Test\UHD_CMP_BL11_1\178D\" -Name "BB82948" -ItemType "directory"
+New-Item -Path "D:\Everything\BL_xx\Remote_Inspection_Test\UHD_CMP_BL11_1\178D\" -Name "BB82949" -ItemType "directory"
+New-Item -Path "D:\Everything\BL_xx\Remote_Inspection_Test\UHD_CMP_BL11_1\178D\" -Name "BB83012" -ItemType "directory"
+New-Item -Path "D:\Everything\BL_xx\Remote_Inspection_Test\UHD_CMP_BL11_1\178D\" -Name "BB83013" -ItemType "directory"
+New-Item -Path "D:\Everything\BL_xx\Remote_Inspection_Test\UHD_CMP_BL11_1\178D\" -Name "BB83014" -ItemType "directory"
+New-Item -Path "D:\Everything\BL_xx\Remote_Inspection_Test\UHD_CMP_BL11_1\178D\" -Name "BB83015" -ItemType "directory"
+New-Item -Path "D:\Everything\BL_xx\Remote_Inspection_Test\UHD_CMP_BL11_1\178D\" -Name "BB83367" -ItemType "directory"
