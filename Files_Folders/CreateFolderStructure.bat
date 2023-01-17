@@ -32,3 +32,38 @@ for /f "tokens=1-3 delims= " %%a in (%folderFile%) do (
 
 echo Folders created successfully.
 pause
+REM -----------------------------------------------------------------------------------------------------
+REM -----------------------------------------------------------------------------------------------------
+REM -----------------------------------------------------------------------------------------------------
+REM -----------------------------------------------------------------------------------------------------
+@echo off
+setlocal enabledelayedexpansion
+
+rem Set the path to the folders.txt file
+set folderFile=%cd%\folders.txt
+
+rem Create the root folder as current directory
+set rootFolder=%cd%\
+
+rem Counter for the number of columns
+set column=1
+
+rem Read the folders.txt file
+for /f "usebackq delims=" %%a in ("%folderFile%") do (
+    rem Set the current folder as the root folder
+    set currentFolder=%rootFolder%
+    rem iterate through each token in the line
+    for /f "tokens=1-* delims= " %%b in ("%%a") do (
+        rem Set the current token as folder
+        set folder=%%b
+        rem Create the folder if it doesn't exist
+        if not exist !currentFolder!\!folder! md !currentFolder!\!folder!
+        rem Set the current folder as current folder\current folder
+        set currentFolder=!currentFolder!\!folder!
+    )
+)
+rem Display a message indicating that the folders were created successfully in the current directory
+echo Folders created successfully.
+rem Pause the command prompt so that you can see the results
+pause
+
