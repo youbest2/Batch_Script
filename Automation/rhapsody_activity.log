@@ -1,0 +1,351 @@
+2024-10-03 11:45:54,375 - INFO - COM library initialized.
+2024-10-03 11:45:54,406 - INFO - Rhapsody application dispatched.
+2024-10-03 11:45:59,406 - INFO - Rhapsody launched successfully.
+2024-10-03 11:46:02,553 - INFO - Project loaded successfully from D:\Sandbox\Nissan\L02_P02\20_Camera\30_Sw\60_Integration\BuildViews\20_Development\Application\SUV\DGU\SwDD\DGU_Coding\SwDD_RNA_DGU_Coding.rpyx.
+2024-10-03 11:46:02,553 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\900_Profiles\LastModificationTimeUpdaterPlugin\LastModificationTimeUpdaterPlugin.sbsx
+2024-10-03 11:46:02,553 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\900_Profiles\LastModificationTimeUpdaterPlugin\LastModificationTimeUpdaterPlugin.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\900_Profiles\\LastModificationTimeUpdaterPlugin\\LastModificationTimeUpdaterPlugin.sbs
+2024-10-03 11:46:02,569 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\900_Profiles\EEPM_UML_Profile_rpy\EEPM_UML_Profile.sbsx
+2024-10-03 11:46:02,569 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\900_Profiles\EEPM_UML_Profile_rpy\EEPM_UML_Profile.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\900_Profiles\\EEPM_UML_Profile_rpy\\EEPM_UML_Profile.sbsx'
+2024-10-03 11:46:02,569 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\900_Profiles\RequirementPlugin\RequirementPlugin.sbsx
+2024-10-03 11:46:02,569 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\900_Profiles\RequirementPlugin\RequirementPlugin.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\900_Profiles\\RequirementPlugin\\RequirementPlugin.sbsx'
+2024-10-03 11:46:02,569 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\10_Functions\10_Functions.sbsx
+2024-10-03 11:46:02,569 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\10_Functions\10_Functions.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\020_UmlModel\\SwAD_rpy\\10_Functions\\10_Functions.sbsx'
+2024-10-03 11:46:02,569 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\20_Requirements\20_Requirements.sbsx
+2024-10-03 11:46:02,569 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\20_Requirements\20_Requirements.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\020_UmlModel\\SwAD_rpy\\20_Requirements\\20_Requirements.sbsx'
+2024-10-03 11:46:02,569 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\30_Analysis\30_Analysis.sbsx
+2024-10-03 11:46:02,569 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\30_Analysis\30_Analysis.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\020_UmlModel\\SwAD_rpy\\30_Analysis\\30_Analysis.sbsx'
+2024-10-03 11:46:02,569 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\40_Logical\40_Logical.sbsx
+2024-10-03 11:46:02,569 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\40_Logical\40_Logical.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\020_UmlModel\\SwAD_rpy\\40_Logical\\40_Logical.sbsx'
+2024-10-03 11:46:02,585 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\60_Dynamics\60_Dynamics.sbsx
+2024-10-03 11:46:02,585 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\60_Dynamics\60_Dynamics.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\020_UmlModel\\SwAD_rpy\\60_Dynamics\\60_Dynamics.sbsx'
+2024-10-03 11:46:02,585 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\70_Integration\70_Integration.sbsx
+2024-10-03 11:46:02,585 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\70_Integration\70_Integration.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\020_UmlModel\\SwAD_rpy\\70_Integration\\70_Integration.sbsx'
+2024-10-03 11:46:02,589 - INFO - Attempting to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\80_Test\80_Test.sbsx
+2024-10-03 11:46:02,589 - ERROR - Failed to load D:\Sandbox\Nissan\DAS\060_Projects\RNA_Renault_Nissan_Alliance\L02_P02\20_Camera\30_Sw\20_Architecture\020_UmlModel\SwAD_rpy\80_Test\80_Test.sbsx: invalid literal for int() with base 10: 'D:\\Sandbox\\Nissan\\DAS\\060_Projects\\RNA_Renault_Nissan_Alliance\\L02_P02\\20_Camera\\30_Sw\\20_Architecture\\020_UmlModel\\SwAD_rpy\\80_Test\\80_Test.sbsx'
+2024-10-03 11:46:02,589 - WARNING - No SBSX files were loaded successfully.
+2024-10-03 11:46:02,769 - DEBUG - Using proactor: IocpProactor
+2024-10-03 11:48:42,341 - INFO - COM library initialized.
+2024-10-03 11:48:42,380 - INFO - Rhapsody application dispatched.
+2024-10-03 11:48:42,380 - INFO - Rhapsody launched successfully.
+2024-10-03 11:48:42,546 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:01:25,670 - INFO - COM library initialized.
+2024-10-03 12:01:25,704 - INFO - Rhapsody application dispatched.
+2024-10-03 12:01:25,705 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:01:25,705 - ERROR - An error occurred: name 'time' is not defined
+2024-10-03 12:01:25,706 - INFO - COM library uninitialized.
+2024-10-03 12:01:25,707 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:02:17,528 - INFO - COM library initialized.
+2024-10-03 12:02:17,558 - INFO - Rhapsody application dispatched.
+2024-10-03 12:02:17,558 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:02:17,558 - ERROR - An error occurred: name 'time' is not defined
+2024-10-03 12:02:17,558 - INFO - COM library uninitialized.
+2024-10-03 12:02:34,104 - INFO - COM library initialized.
+2024-10-03 12:02:34,135 - INFO - Rhapsody application dispatched.
+2024-10-03 12:02:34,135 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:02:34,135 - ERROR - An error occurred: name 'time' is not defined
+2024-10-03 12:02:34,138 - INFO - COM library uninitialized.
+2024-10-03 12:02:34,138 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:07:45,112 - INFO - COM library initialized.
+2024-10-03 12:07:45,133 - INFO - Rhapsody application dispatched.
+2024-10-03 12:07:45,133 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:07:50,148 - INFO - Rhapsody launched successfully.
+2024-10-03 12:07:50,185 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:10:14,703 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 12:10:19,056 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1445816893392>
+2024-10-03 12:10:19,059 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:10:41,393 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:11:06,392 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:12:27,093 - INFO - COM library initialized.
+2024-10-03 12:12:27,120 - INFO - Rhapsody application dispatched.
+2024-10-03 12:12:27,120 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:12:32,133 - INFO - Rhapsody launched successfully.
+2024-10-03 12:12:32,164 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:12:53,283 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 12:12:57,608 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:15:22,514 - INFO - COM library initialized.
+2024-10-03 12:15:31,929 - INFO - Rhapsody application dispatched.
+2024-10-03 12:15:31,929 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:15:36,931 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:15:36,934 - INFO - COM library uninitialized.
+2024-10-03 12:15:36,935 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:16:45,352 - INFO - COM library initialized.
+2024-10-03 12:16:55,678 - INFO - Rhapsody application dispatched.
+2024-10-03 12:16:55,678 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:17:00,680 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:17:00,682 - INFO - COM library uninitialized.
+2024-10-03 12:17:00,682 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:19:53,472 - INFO - COM library initialized.
+2024-10-03 12:19:53,501 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:19:53,501 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:19:58,512 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:19:58,515 - INFO - COM library uninitialized.
+2024-10-03 12:19:58,516 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:21:24,090 - INFO - COM library initialized.
+2024-10-03 12:21:24,124 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:21:24,124 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:21:29,126 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:21:29,127 - INFO - COM library uninitialized.
+2024-10-03 12:21:29,128 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:23:07,682 - INFO - COM library initialized.
+2024-10-03 12:23:07,716 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:23:07,716 - INFO - Waiting for Rhapsody to fully launch...
+2024-10-03 12:23:12,717 - DEBUG - Found windows: [Win32Window(hWnd=396684), Win32Window(hWnd=329168), Win32Window(hWnd=2099884), Win32Window(hWnd=1644182), Win32Window(hWnd=1511528)]
+2024-10-03 12:23:12,719 - DEBUG - Rhapsody window: [Win32Window(hWnd=396684), Win32Window(hWnd=329168), Win32Window(hWnd=2099884), Win32Window(hWnd=1644182), Win32Window(hWnd=1511528)]
+2024-10-03 12:23:12,719 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:23:12,720 - INFO - COM library uninitialized.
+2024-10-03 12:23:12,720 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:25:58,268 - INFO - COM library initialized.
+2024-10-03 12:25:58,298 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:25:58,298 - DEBUG - Found windows: [Win32Window(hWnd=1577808), Win32Window(hWnd=329168), Win32Window(hWnd=2099884), Win32Window(hWnd=1644182), Win32Window(hWnd=1511528)]
+2024-10-03 12:25:58,298 - DEBUG - Rhapsody window: [Win32Window(hWnd=1577808), Win32Window(hWnd=329168), Win32Window(hWnd=2099884), Win32Window(hWnd=1644182), Win32Window(hWnd=1511528)]
+2024-10-03 12:25:58,299 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:25:58,301 - INFO - COM library uninitialized.
+2024-10-03 12:25:58,301 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:27:51,541 - INFO - COM library initialized.
+2024-10-03 12:27:51,567 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:27:51,567 - DEBUG - Found windows: [Win32Window(hWnd=4265714), Win32Window(hWnd=329168), Win32Window(hWnd=2099884), Win32Window(hWnd=1644182), Win32Window(hWnd=1511528)]
+2024-10-03 12:27:51,567 - DEBUG - Rhapsody window: [Win32Window(hWnd=4265714), Win32Window(hWnd=329168), Win32Window(hWnd=2099884), Win32Window(hWnd=1644182), Win32Window(hWnd=1511528)]
+2024-10-03 12:27:51,567 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:27:51,567 - INFO - COM library uninitialized.
+2024-10-03 12:27:51,567 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:29:26,599 - INFO - COM library initialized.
+2024-10-03 12:29:26,637 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:29:26,637 - DEBUG - Found windows: [Win32Window(hWnd=1644182), Win32Window(hWnd=1641782), Win32Window(hWnd=329168), Win32Window(hWnd=2099884), Win32Window(hWnd=4265714), Win32Window(hWnd=1511528)]
+2024-10-03 12:29:26,637 - DEBUG - Rhapsody window: [Win32Window(hWnd=1644182), Win32Window(hWnd=1641782), Win32Window(hWnd=329168), Win32Window(hWnd=2099884), Win32Window(hWnd=4265714), Win32Window(hWnd=1511528)]
+2024-10-03 12:29:26,637 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:29:26,637 - INFO - COM library uninitialized.
+2024-10-03 12:29:26,637 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:29:53,322 - INFO - COM library initialized.
+2024-10-03 12:29:53,359 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:29:53,359 - DEBUG - Found windows: [Win32Window(hWnd=7212692), Win32Window(hWnd=329168), Win32Window(hWnd=1644182), Win32Window(hWnd=2099884), Win32Window(hWnd=4265714), Win32Window(hWnd=1511528)]
+2024-10-03 12:29:53,359 - DEBUG - Rhapsody window: [Win32Window(hWnd=7212692), Win32Window(hWnd=329168), Win32Window(hWnd=1644182), Win32Window(hWnd=2099884), Win32Window(hWnd=4265714), Win32Window(hWnd=1511528)]
+2024-10-03 12:29:53,359 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:29:53,359 - INFO - COM library uninitialized.
+2024-10-03 12:29:53,359 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:33:05,408 - INFO - COM library initialized.
+2024-10-03 12:33:05,430 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:33:05,430 - DEBUG - Found windows: [Win32Window(hWnd=3213842), Win32Window(hWnd=329168), Win32Window(hWnd=1644182), Win32Window(hWnd=2099884), Win32Window(hWnd=7212692), Win32Window(hWnd=4265714), Win32Window(hWnd=1511528)]
+2024-10-03 12:33:05,430 - DEBUG - Rhapsody window: [Win32Window(hWnd=3213842), Win32Window(hWnd=329168), Win32Window(hWnd=1644182), Win32Window(hWnd=2099884), Win32Window(hWnd=7212692), Win32Window(hWnd=4265714), Win32Window(hWnd=1511528)]
+2024-10-03 12:33:05,430 - ERROR - An error occurred: 'list' object has no attribute 'activate'
+2024-10-03 12:33:05,430 - INFO - COM library uninitialized.
+2024-10-03 12:33:05,430 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:34:57,636 - INFO - COM library initialized.
+2024-10-03 12:34:57,667 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:34:57,667 - INFO - Rhapsody attached successfully.
+2024-10-03 12:34:57,708 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:36:56,804 - INFO - COM library initialized.
+2024-10-03 12:36:56,818 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 12:36:56,833 - INFO - Rhapsody attached successfully.
+2024-10-03 12:36:56,868 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:39:47,928 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:40:25,887 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:40:36,096 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:41:07,556 - DEBUG - Using proactor: IocpProactor
+2024-10-03 12:41:20,038 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:52:41,071 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:52:41,084 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:52:41,094 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:56:07,100 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:57:06,094 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:57:48,654 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:57:53,219 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:58:10,801 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:58:13,604 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:58:49,946 - DEBUG - Using proactor: IocpProactor
+2024-10-03 13:59:57,129 - INFO - COM library initialized.
+2024-10-03 13:59:57,157 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 13:59:57,158 - INFO - Rhapsody attached successfully.
+2024-10-03 13:59:57,201 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:00:01,777 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 14:04:49,816 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1918101435728>
+2024-10-03 14:04:49,818 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:05:06,531 - INFO - COM library initialized.
+2024-10-03 14:05:06,556 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 14:05:06,556 - INFO - Rhapsody attached successfully.
+2024-10-03 14:05:06,592 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:05:13,712 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 14:05:17,608 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2155963042880>
+2024-10-03 14:05:17,623 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:06:14,843 - INFO - COM library initialized.
+2024-10-03 14:06:14,867 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 14:06:14,873 - INFO - Rhapsody attached successfully.
+2024-10-03 14:06:14,907 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:06:41,000 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 14:07:31,041 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2218349642992>
+2024-10-03 14:07:31,043 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:16:16,389 - INFO - COM library initialized.
+2024-10-03 14:16:16,412 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 14:16:16,412 - INFO - Rhapsody attached successfully.
+2024-10-03 14:16:16,455 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:16:22,141 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 14:16:26,727 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2062841356880>
+2024-10-03 14:16:26,991 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:16:41,392 - INFO - COM library initialized.
+2024-10-03 14:16:41,427 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 14:16:41,427 - INFO - Rhapsody attached successfully.
+2024-10-03 14:16:41,469 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:19:02,835 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 14:19:07,212 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1970143996992>
+2024-10-03 14:19:07,499 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:19:47,319 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:20:00,766 - INFO - COM library initialized.
+2024-10-03 14:20:00,792 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 14:20:00,798 - INFO - Rhapsody attached successfully.
+2024-10-03 14:20:00,838 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:20:19,539 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 14:41:17,657 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1579934984800>
+2024-10-03 14:41:17,662 - DEBUG - Using proactor: IocpProactor
+2024-10-03 14:56:42,791 - INFO - COM library initialized.
+2024-10-03 14:56:42,834 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 14:56:42,840 - INFO - Rhapsody attached successfully.
+2024-10-03 14:56:42,840 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 15:20:34,574 - INFO - COM library initialized.
+2024-10-03 15:20:34,628 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 15:20:34,629 - INFO - Rhapsody attached successfully.
+2024-10-03 15:20:34,629 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 15:20:38,429 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2101484817424>
+2024-10-03 15:20:38,436 - INFO - Project opened successfully.
+2024-10-03 15:20:42,207 - ERROR - An error occurred: Failed to read ok_button.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-10-03 15:20:42,217 - INFO - COM library uninitialized.
+2024-10-03 15:20:42,217 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:21:26,504 - INFO - COM library initialized.
+2024-10-03 15:21:26,554 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 15:21:26,555 - INFO - Rhapsody attached successfully.
+2024-10-03 15:21:26,555 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 15:21:44,181 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2691633486864>
+2024-10-03 15:21:44,181 - INFO - Project opened successfully.
+2024-10-03 15:21:47,518 - ERROR - An error occurred: Failed to read ok_button.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-10-03 15:21:47,523 - INFO - COM library uninitialized.
+2024-10-03 15:21:47,525 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:22:29,469 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:31:12,856 - INFO - COM library initialized.
+2024-10-03 15:31:12,899 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 15:31:12,899 - INFO - Rhapsody attached successfully.
+2024-10-03 15:31:12,899 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 15:31:30,524 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1413458336784>
+2024-10-03 15:31:30,524 - INFO - Project opened successfully.
+2024-10-03 15:31:33,852 - ERROR - An error occurred: Failed to read ok_button.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-10-03 15:31:33,862 - INFO - COM library uninitialized.
+2024-10-03 15:31:33,862 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:32:19,279 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:34:53,217 - INFO - COM library initialized.
+2024-10-03 15:34:53,239 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 15:34:53,239 - INFO - Rhapsody attached successfully.
+2024-10-03 15:34:53,239 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 15:34:55,623 - ERROR - COM error: (-2147417851, 'The server threw an exception.', None, None)
+2024-10-03 15:34:55,633 - INFO - COM library uninitialized.
+2024-10-03 15:34:55,633 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:35:13,015 - INFO - COM library initialized.
+2024-10-03 15:35:13,040 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 15:35:13,040 - INFO - Rhapsody attached successfully.
+2024-10-03 15:35:13,040 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 15:36:10,135 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>
+2024-10-03 15:36:10,136 - INFO - Project opened successfully.
+2024-10-03 15:36:10,139 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,145 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,145 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,156 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,158 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,158 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,162 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,204 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,204 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,207 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,211 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,212 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,214 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,214 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,215 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,215 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,216 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,216 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,217 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,217 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,218 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,219 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,219 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,219 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,220 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,221 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,221 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,222 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:36:10,222 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:36:10,223 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1580970582272>' object has no attribute 'addToModel'
+2024-10-03 15:36:10,274 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:40:19,174 - INFO - COM library initialized.
+2024-10-03 15:40:19,202 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 15:40:19,202 - INFO - Rhapsody attached successfully.
+2024-10-03 15:40:19,202 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 15:41:01,353 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>
+2024-10-03 15:41:01,359 - INFO - Project opened successfully.
+2024-10-03 15:41:01,361 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,366 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,366 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,366 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,374 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,374 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,374 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,385 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,385 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,417 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,417 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,417 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,427 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,427 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,427 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,427 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,427 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,427 - ERROR - Failed to import SBSX file using importPackageFromRose. Error: (-2147352561, 'Parameter not optional.', None, None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:41:01,427 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x2273834672384>' object has no attribute 'addToModel'
+2024-10-03 15:41:01,479 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:42:10,977 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:42:46,811 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:44:15,852 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:44:26,412 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:44:43,196 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:45:13,636 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:45:24,206 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:45:28,993 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:45:34,040 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:49:22,583 - INFO - COM library initialized.
+2024-10-03 15:49:22,612 - INFO - Attached to existing Rhapsody instance.
+2024-10-03 15:49:22,622 - INFO - Rhapsody attached successfully.
+2024-10-03 15:49:22,622 - INFO - Calling method: openProject with args: ('D:\\Sandbox\\Nissan\\L02_P02\\20_Camera\\30_Sw\\60_Integration\\BuildViews\\20_Development\\Application\\SUV\\DGU\\SwDD\\DGU_Coding\\SwDD_RNA_DGU_Coding.rpyx',) kwargs: {}
+2024-10-03 15:50:09,430 - INFO - Method openProject returned: <win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>
+2024-10-03 15:50:09,431 - INFO - Project opened successfully.
+2024-10-03 15:50:09,438 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,438 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,439 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,439 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,454 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,454 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,457 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,457 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,460 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,460 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,466 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,467 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,501 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,503 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,504 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,505 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,505 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,507 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,508 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,508 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,508 - ERROR - Failed to add SBSX file using addProfile. Error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147221495), None)
+2024-10-03 15:50:09,508 - ERROR - Failed to add SBSX file using addToModel. Error: '<win32com.gen_py.Rhapsody2 1.0 Type Library.IRPProject instance at 0x1533748945152>' object has no attribute 'addToModel'
+2024-10-03 15:50:09,560 - DEBUG - Using proactor: IocpProactor
+2024-10-03 15:50:09,602 - DEBUG - Using proactor: IocpProactor
+2024-10-03 16:02:02,469 - DEBUG - Using proactor: IocpProactor
